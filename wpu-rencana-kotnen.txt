@@ -5,3 +5,4 @@
 - membuat konten baru hari ini
 - membuat pisang kipas
 - pisang
+- tambah java
