@@ -1,7 +1,9 @@
 - membuat konten 1
 - membuat konten 2
- `konten 2
-- python
+   `konten 1
+- laravel
 - membuat konten baru hari ini
 - membuat pisang kipas
-- java
+- pisang
+- tambah java
+
